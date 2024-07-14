@@ -1,9 +1,13 @@
 # JAVA PROGRAM
-Rahul 
+Rahul
 
-this repo contains exercise point that we have done in 7xATB class
+This Repo contains the source code for the Exercise that we have done in the ATB7x batch
 
- 1 Core JAVA
- 2 Collection Framework  
- 3 Multithreading
- 4 Design patterns
+Core JAVA
+OOPs
+Collections Framework
+Multi Threading
+Design Patterns
+FILE IO
+Other misc concepts
+Exception

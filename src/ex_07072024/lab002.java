@@ -8,7 +8,7 @@ public class lab002 {
         System.out.println(26+23);
         System.out.println(12+2);
         System.out.println(29+23);
-                     System.out.println(2*23);
+        System.out.println(2*23);
 
     }
 

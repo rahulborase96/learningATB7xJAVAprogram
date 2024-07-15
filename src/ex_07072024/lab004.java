@@ -7,5 +7,5 @@ public class lab004 {
         System.out.println(status 0);
     }
     //we execute java program without main method (work until java version 1.6)
-    //jav 7 and new version don't allow this because JVM checks the presence main method
+    //java 7 and new version don't allow this because JVM checks the presence main method
 }

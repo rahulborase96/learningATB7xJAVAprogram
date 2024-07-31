@@ -25,7 +25,7 @@ public class lab077triangle_classifier {
         // default scalene
 
         if (side1 == side2 && side2 == side3){
-            System.out.println("trinle is equilateral");
+            System.out.println("triangle is equilateral");
         } else if (side1 ==side2 || side2 ==side3 || side1 == side3) {
             System.out.println("triangle is isosceles");
 

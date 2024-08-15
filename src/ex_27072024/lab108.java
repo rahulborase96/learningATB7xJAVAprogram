@@ -7,7 +7,7 @@ public class lab108 {
         Scanner sc =new Scanner(System.in);
         float[]marks =new float[5];
         for (int i =0; i< marks.length ; i++) {
-            System.out.println("Enter the mark" + (i + 1));
+            System.out.println("Enter the mark of sub " + (i + 1));
             marks[i]= sc.nextFloat();
         }
         float avg = (marks[0]+marks[1]+marks[2]+marks[3]+marks[4])/5;

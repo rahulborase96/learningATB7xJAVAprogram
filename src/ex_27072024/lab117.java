@@ -2,7 +2,7 @@ package ex_27072024;
 
 public class lab117 {
     public static void main(String[] args) {
-// TODO Auto-generated method stub
+// TOD O Auto-generated method stub
             int sal[]= {35,56,3,22,44,616,84,2,34};
             int n=sal.length;
             int second,i;
